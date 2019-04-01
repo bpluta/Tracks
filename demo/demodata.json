@@ -1,0 +1,458 @@
+{
+  "id":1,
+  "email":"hello@world.net",
+  "name":"John",
+  "surname":"Doe",
+  "phone":"855-555-4610",
+  "defaultPricePerHour":30,
+  "workingDays":5,
+  "workingHours":8,
+  "latestTask":1,
+  "projects":[
+    {
+      "id":1,
+      "name":"Lorem Ipsum",
+      "description":"Ipsam quod sunt cum culpa.",
+      "for":"John Doe",
+      "state":"open",
+      "deadline":"2019-03-12 15:50:47",
+      "pricePerHour":80,
+      "earned":718,
+      "timeSpent":48389,
+      "createdAt":"2019-01-19 16:55:50",
+      "updatedAt":"2019-01-24 16:09:01",
+      "tasks":[
+        {
+          "id":1,
+          "name":"Ipsa quia aliquam.",
+          "description":"Consequatur vitae sed explicabo aut.",
+          "for":"Albert Ostrowski",
+          "state":"open",
+          "deadline":"2019-03-08 15:50:47",
+          "pricePerHour":40,
+          "earned":117,
+          "timeSpent":21852,
+          "isActive":0,
+          "projectId":1,
+          "createdAt":"2019-01-19 16:55:50",
+          "updatedAt":"2019-01-20 00:53:44",
+          "working":[
+            {
+              "start":"2001-05-23 17:57:33",
+              "end":"2001-05-23 18:31:22",
+              "timeSpent":2029
+            },
+            {
+              "start":"1981-11-19 10:47:46",
+              "end":"1981-11-19 11:25:20",
+              "timeSpent":2254
+            },
+            {
+              "start":"2015-10-14 18:37:43",
+              "end":"2015-10-14 19:20:11",
+              "timeSpent":2548
+            },
+            {
+              "start":"1976-11-03 13:07:07",
+              "end":"1976-11-03 14:04:02",
+              "timeSpent":3415
+            },
+            {
+              "start":"2019-01-19 21:19:25",
+              "end":"2019-01-19 21:19:43",
+              "timeSpent":18
+            },
+            {
+              "start":"2019-01-19 21:20:31",
+              "end":"2019-01-19 21:20:40",
+              "timeSpent":9
+            },
+            {
+              "start":"2019-01-19 21:22:46",
+              "end":"2019-01-19 21:23:13",
+              "timeSpent":27
+            },
+            {
+              "start":"2019-01-19 21:23:15",
+              "end":"2019-01-19 21:23:18",
+              "timeSpent":3
+            },
+            {
+              "start":"2019-01-19 21:23:35",
+              "end":"2019-01-19 21:23:56",
+              "timeSpent":21
+            },
+            {
+              "start":"2019-01-19 21:23:59",
+              "end":"2019-01-19 21:24:04",
+              "timeSpent":5
+            },
+            {
+              "start":"2019-01-19 21:24:16",
+              "end":"2019-01-19 21:24:38",
+              "timeSpent":22
+            },
+            {
+              "start":"2019-01-19 21:25:34",
+              "end":"2019-01-19 21:26:04",
+              "timeSpent":30
+            },
+            {
+              "start":"2019-01-19 21:26:08",
+              "end":"2019-01-19 21:26:11",
+              "timeSpent":3
+            },
+            {
+              "start":"2019-01-19 21:35:28",
+              "end":"2019-01-19 21:35:39",
+              "timeSpent":11
+            },
+            {
+              "start":"2019-01-19 21:35:43",
+              "end":"2019-01-19 21:36:07",
+              "timeSpent":24
+            },
+            {
+              "start":"2019-01-19 21:36:11",
+              "end":"2019-01-20 00:44:28",
+              "timeSpent":11297
+            },
+            {
+              "start":"2019-01-20 00:44:29",
+              "end":"2019-01-20 00:46:13",
+              "timeSpent":104
+            },
+            {
+              "start":"2019-01-20 00:53:17",
+              "end":"2019-01-20 00:53:28",
+              "timeSpent":11
+            },
+            {
+              "start":"2019-01-20 00:53:31",
+              "end":"2019-01-20 00:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-20 11:53:31",
+              "end":"2019-01-20 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-18 09:14:31",
+              "end":"2019-01-18 17:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-17 11:23:31",
+              "end":"2019-01-17 18:46:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-16 06:52:31",
+              "end":"2019-01-16 13:02:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-15 09:10:31",
+              "end":"2019-01-15 16:51:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-14 11:53:31",
+              "end":"2019-01-14 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-13 15:53:31",
+              "end":"2019-01-13 19:13:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-12 05:31:31",
+              "end":"2019-01-12 12:50:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-11 11:11:31",
+              "end":"2019-01-11 17:16:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-10 12:53:31",
+              "end":"2019-01-10 14:33:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-09 10:53:31",
+              "end":"2019-01-09 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-08 10:53:31",
+              "end":"2019-01-08 14:23:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-07 06:22:31",
+              "end":"2019-01-07 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-06 16:10:31",
+              "end":"2019-01-06 22:51:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-05 10:53:31",
+              "end":"2019-01-05 20:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-04 13:29:31",
+              "end":"2019-01-04 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-03 11:53:31",
+              "end":"2019-01-03 17:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-02 11:53:31",
+              "end":"2019-01-02 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2019-01-01 18:42:44",
+              "end":"2019-01-01 18:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-31 11:03:31",
+              "end":"2018-12-31 11:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-30 07:53:31",
+              "end":"2018-12-30 14:13:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-29 11:53:31",
+              "end":"2018-12-29 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-28 10:13:31",
+              "end":"2018-12-28 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-27 15:43:31",
+              "end":"2018-12-27 19:31:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-26 15:03:31",
+              "end":"2018-12-26 21:43:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-25 11:53:31",
+              "end":"2018-12-25 12:13:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-24 11:53:31",
+              "end":"2018-12-24 11:59:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-23 08:00:31",
+              "end":"2018-12-23 14:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-22 09:13:31",
+              "end":"2018-12-22 18:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-21 11:53:31",
+              "end":"2018-12-21 20:53:44",
+              "timeSpent":13
+            },
+            {
+              "start":"2018-12-20 11:53:31",
+              "end":"2018-12-20 22:53:44",
+              "timeSpent":13
+            }
+          ]
+        },
+        {
+          "id":2,
+          "name":"Itaque consequatur eum aut repellat.",
+          "description":"Voluptas quia consequuntur voluptatem ipsum quia.",
+          "for":"Aniela Sawicka",
+          "state":"open",
+          "deadline":"2019-03-04 15:50:47",
+          "pricePerHour":60,
+          "earned":137,
+          "timeSpent":8214,
+          "isActive":0,
+          "projectId":1,
+          "createdAt":"2019-01-19 16:55:50",
+          "updatedAt":"2019-01-19 16:55:53",
+          "working":[
+            {
+              "start":"1999-04-15 21:24:31",
+              "end":"1999-04-15 21:56:48",
+              "timeSpent":1937
+            },
+            {
+              "start":"1976-05-17 21:48:27",
+              "end":"1976-05-17 22:42:40",
+              "timeSpent":3253
+            },
+            {
+              "start":"1985-03-04 18:45:01",
+              "end":"1985-03-04 18:53:45",
+              "timeSpent":524
+            },
+            {
+              "start":"1993-03-08 03:47:34",
+              "end":"1993-03-08 04:29:14",
+              "timeSpent":2500
+            }
+          ]
+        },
+        {
+          "id":4,
+          "name":"Hic voluptas architecto eum.",
+          "description":"Qui facilis in nobis facilis optio.",
+          "for":"Anita Ko\u0142odziej",
+          "state":"open",
+          "deadline":"2019-03-15 15:50:47",
+          "pricePerHour":60,
+          "earned":135,
+          "timeSpent":8086,
+          "isActive":0,
+          "projectId":1,
+          "createdAt":"2019-01-19 16:55:50",
+          "updatedAt":"2019-01-19 16:55:53",
+          "working":[
+            {
+              "start":"1989-09-04 19:41:19",
+              "end":"1989-09-04 19:58:50",
+              "timeSpent":1051
+            },
+            {
+              "start":"2016-07-24 15:44:59",
+              "end":"2016-07-24 16:28:03",
+              "timeSpent":2584
+            },
+            {
+              "start":"2013-11-09 09:01:51",
+              "end":"2013-11-09 09:31:23",
+              "timeSpent":1772
+            },
+            {
+              "start":"2004-02-29 19:45:45",
+              "end":"2004-02-29 20:30:24",
+              "timeSpent":2679
+            }
+          ]
+        },
+      ]
+    },
+    {
+      "id":44,
+      "name":"Dolor sit amet",
+      "description":"Lorem ipsum.",
+      "for":"Jan Kowalski",
+      "state":"open",
+      "deadline":"2019-03-21 20:40:56",
+      "pricePerHour":80,
+      "earned":766,
+      "timeSpent":9191,
+      "createdAt":"2019-01-19 21:48:23",
+      "updatedAt":"2019-02-20 11:38:47",
+      "tasks":[
+        {
+          "id":208,
+          "name":"Dolor sit amet",
+          "description":"Descriptive description.",
+          "for":"Payholder Doe",
+          "state":"open",
+          "deadline":"2019-02-01 20:20:15",
+          "pricePerHour":300,
+          "earned":765,
+          "timeSpent":9191,
+          "isActive":0,
+          "projectId":44,
+          "createdAt":"2019-01-19 22:20:50",
+          "updatedAt":"2019-02-20 11:38:47",
+          "working":[
+            {
+              "start":"2019-01-22 22:06:16",
+              "end":"2019-01-23 00:39:07",
+              "timeSpent":9171
+            },
+            {
+              "start":"2019-01-23 00:39:17",
+              "end":"2019-01-23 00:39:31",
+              "timeSpent":14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":59,
+      "name":"Consectetur adipiscing elit",
+      "description":"Hello world",
+      "for":"Janko Walski",
+      "state":"closed",
+      "deadline":"2019-01-24 15:17:36",
+      "pricePerHour":80,
+      "earned":2,
+      "timeSpent":91,
+      "createdAt":"2019-01-24 16:17:52",
+      "updatedAt":"2019-01-24 17:43:51",
+      "tasks":[
+        {
+          "id":219,
+          "name":"Lorem Ipsum",
+          "description":"Description text",
+          "for":"Jan Kowalski",
+          "state":"closed",
+          "deadline":"2019-01-24 15:18:01",
+          "pricePerHour":80,
+          "earned":0,
+          "timeSpent":91,
+          "isActive":0,
+          "projectId":59,
+          "createdAt":"2019-01-24 16:18:19",
+          "updatedAt":"2019-01-24 17:43:51",
+          "working":[
+            {
+              "start":"2019-01-24 16:18:29",
+              "end":"2019-01-24 16:19:42",
+              "timeSpent":73
+            },
+            {
+              "start":"2019-01-24 16:20:42",
+              "end":"2019-01-24 16:20:54",
+              "timeSpent":12
+            },
+            {
+              "start":"2019-01-24 17:43:45",
+              "end":"2019-01-24 17:43:51",
+              "timeSpent":6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
